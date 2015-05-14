@@ -32,7 +32,7 @@ nutella.net.publish('demo_channel', {a: 'proper', key: 'value'});
 
 
 // 3. Make asynchronous requests on a certain channel
-nutella.net.async_request( 'demo_channel', 'my_request', function(response){
+nutella.net.request( 'demo_channel', 'my_request', function(response){
     // Your code to handle the response to this request goes here
 });
 
