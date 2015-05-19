@@ -1,6 +1,6 @@
 {
 	"name": "basic-node-bot",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "bot",
 	"description": "The simplest possible nutella bot that can be written in JavaScript!"
 }

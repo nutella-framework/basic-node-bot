@@ -9,4 +9,5 @@ nutella install basic-node-bot
 
 
 ## Changelog
+- v1.0.1: Using nutella_lib v0.6.1
 - v1.0.0: Using nutella_lib v0.5.7
